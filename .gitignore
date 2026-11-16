@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Private files (never upload secrets to GitHub)
+.env
+.streamlit/secrets.toml
